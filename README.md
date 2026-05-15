@@ -1,7 +1,5 @@
 # 🚀 VisionBoard — Gesture Controlled Productivity Dashboard
 
-![Gesture Commands Implemented](https://github.com/user-attachments/assets/ed6526be-c030-4dc7-8b75-0c84067c44f3)
-
 ---
 
 # 📌 Project Overview
